@@ -60,6 +60,7 @@ set(TPLGS
 	"shikra-cqs-evk\;shikra-cqs-evk\;qcom/shikra\;"
 	"shikra-iqs-evk\;shikra-iqs-evk\;qcom/shikra\;"
 	"ELIZA-RetroidPocket-I2S\;ELIZA-RetroidPocket-I2S\;qcom/eliza\;"
+	"SM8550-RetroidPocket-I2S\;SM8550-RetroidPocket-I2S\;qcom/sm8550\;"
   )
 
 # The list of directories to skip when synchronizing to linux-firmware
